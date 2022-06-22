@@ -144,6 +144,10 @@ Additionally it supports Symbol Provider so you can quickly jump to the right CS
 
 [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) by GitHub - This extension is one of the most impressive things I have ever seen in my years of software development. It is a personal AI pair programmer which suggests line completions and entire function bodies as you type. You can even type a comment of a function or line of code you want to write and Copilot will suggest the rest. IT IS WILD.. and terrifying... and very sky netty 😱. You can get access by first joining the waitlist [here](https://github.com/features/copilot/signup) (you'll also need a GitHub account). Once approved you can then install the extension sign in to your GitHub account on VSCode and start using it and be amazed.
 
+***
+ **UPDATE:** Github Copilot now requires a subscription as of June 21st, 2022 but is free for Github Organizations.
+***
+
 ![Gif of GitHub Copilot](https://miro.medium.com/max/1400/1*XyCPuRbbpfWnqI6I4GTVZQ.gif)
 
 [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css) by ecmel - This extension gives you HTML id and class attribute completion in VSCode.
